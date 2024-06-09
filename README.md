@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/762594558839881732/1242756745156235295/dc_avatar.png?ex=664efee9&is=664dad69&hm=f82652d884a245f57419fb6f70b9a5cf2b42d60bfda2931aed8be5f4f5acc79e&"  />
-
 ###
 
 <div align="center">
@@ -38,6 +36,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
    <a href="https://www.linkedin.com/in/sebastian-mrowiński-35a951282/" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 
